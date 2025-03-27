@@ -73,14 +73,14 @@
 - Heatmaps to show trends in categorical variables.
 - Boxplots to detect outliers in numerical variables.
 
-### 4. Model Training and Testing
+### 4. Model Training and Evaluation
 **Objective**: Train and evaluate models using multiple algorithms.
 
 #### **a. Train-Test Splitting**
 - **Target Variable**: Synthesized label created in data preprocessing.
 - Evaluates whether a client repays a loan based on historical records.
 
-#### **b. Model Training**
+#### **b. Model Training & Evaluation**
 - Models used:
   - **XGBClassifier**
   - **LGBMClassifier**
@@ -107,7 +107,7 @@ User can replace the following files and run the code in this section to make pr
 ```
 
 
-### 6. Limitations & Future Work
+### 5. Limitations & Future Work
 | Limitation | Future Work |
 |------------|------------|
 | **Parameter Tuning**: Limited tuning may affect performance. | Use advanced tuning methods (e.g., Grid Search, Bayesian Optimization, or AutoML). |
