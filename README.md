@@ -9,6 +9,10 @@
   To streamline deployment, a scalable and efficient pipeline is constructed, allowing seamless integration with an API for real-time risk assessment. This enhances automation and decision-making in financial institutions, reducing default rates and improving overall portfolio health.
 
 ## Implementation Details
+<p align="center">
+<img src="Image/Overall_implementation.png" width="700">
+</p>
+
 ### 1. Dataset Exploration
 **Objective**: Build a supervised learning model for binary classification.
 
