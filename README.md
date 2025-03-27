@@ -5,12 +5,10 @@
 * Install all required dependencies through: ``` !pip install -r "requirements.txt" ```
 
 ## Introduction
-* This project aims to develop a predictive model to determine the risk of loan repayment.
-* The approach involves extensive data exploration, preprocessing, visualization, and model training using multiple machine learning models. The models included in this study are LightGBM, Histogram-based Gradient Boosting, and XGBoost.
-* Finally, a pipeline is built to process new incoming data and predict the risk of loan repayment. This ensure the easier integration into a API for real-time prediction.
+  This project focuses on developing a robust predictive model to assess the risk of loan repayment, enabling more informed lending decisions. The approach begins with comprehensive data exploration, preprocessing, and visualization to uncover key patterns and optimize data quality. Multiple state-of-the-art machine learning models, including LightGBM, Histogram-based Gradient Boosting, and XGBoost, are trained and evaluated to ensure high predictive accuracy and reliability.
+  To streamline deployment, a scalable and efficient pipeline is constructed, allowing seamless integration with an API for real-time risk assessment. This enhances automation and decision-making in financial institutions, reducing default rates and improving overall portfolio health.
 
 ## Implementation Details
-
 ### 1. Dataset Exploration
 **Objective**: Build a supervised learning model for binary classification.
 
